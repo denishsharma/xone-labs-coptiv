@@ -3,7 +3,7 @@
     "type": "module",
     "version": "0.0.0",
     "private": true,
-    "description": "Nuxt 3 minimal starter template with TypeScript, ESLint, Vue 3, and more.",
+    "description": "A supercharged clipboard tool for sharing code snippets, text, and many more with ease.",
     "author": "XONE Labs",
     "license": "MIT",
     "repository": {
