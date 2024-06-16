@@ -5,6 +5,13 @@
     "private": true,
     "description": "A supercharged clipboard tool for sharing code snippets, text, and many more with ease.",
     "author": "XONE Labs",
+    "contributors": [
+        {
+            "name": "Denish Sharma",
+            "email": "denishcommon@gmail.com",
+            "url": "https://github.com/denishsharma"
+        }
+    ],
     "license": "MIT",
     "repository": {
         "type": "git",
@@ -17,13 +24,6 @@
         {
             "name": "Xubikle Development Team",
             "email": "development@xubikle.com"
-        }
-    ],
-    "contributors": [
-        {
-            "name": "Denish Sharma",
-            "email": "denishcommon@gmail.com",
-            "url": "https://github.com/denishsharma"
         }
     ],
     "keywords": [
